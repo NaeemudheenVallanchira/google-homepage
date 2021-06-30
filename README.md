@@ -1,4 +1,4 @@
-By dooing this project i am trying to learn following skills
+By doing this project i am trying to learn following skills
 
     Two ways to move a div around on the page
     Stick a div onto the bottom or top of the page
